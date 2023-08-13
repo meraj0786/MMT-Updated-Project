@@ -1,0 +1,16 @@
+
+
+.app-body{
+    background: radial-gradient(circle, #0716a0, #5b70e9);
+
+}
+
+.componant-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.direction-container{
+    display: flex;
+    flex-direction: column;
+}
